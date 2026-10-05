@@ -10,10 +10,10 @@ The project is intended to demonstrate both how the service works and what its D
 
 | Team member | Enrollment number | Responsibility |
 | --- | --- | --- |
-| Shitanshu | `<ENROLLMENT_NUMBER>` | Primary DNS |
-| Keshav | `<ENROLLMENT_NUMBER>` | nginx edge server, load balancing, TLS termination, and caching |
-| Shivam | `<ENROLLMENT_NUMBER>` | Backend A |
-| Yash | `<ENROLLMENT_NUMBER>` | Backend B |
+| Shitanshu | `2401020106` | Primary DNS |
+| Keshav | `<2401010223>` | nginx edge server, load balancing, TLS termination, and caching |
+| Shivam | `<2401020107>` | Backend A |
+| Yash | `<2401010513>` | Backend B |
 
 ## 3. Architecture
 
